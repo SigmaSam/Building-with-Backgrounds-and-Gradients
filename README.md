@@ -4,7 +4,7 @@
 
  # Microverse Project #4 04/25/2020.
 
- # The objetive of this project was to recreate an old Apple website, setting background images as a base canvas and playing with gradiants options in CSS.
+ The objetive of this project was to recreate an old Apple website, setting background images as a base canvas and playing with gradiants options in CSS.
 
  ##   Features Added
  ###  Navigation Bar
@@ -24,12 +24,6 @@
  ### Screenshorts
 
  ![screenshot](./Images/Screenshot_1.png)
- ![related1](https://user-images.githubusercontent.com/33205781/79913756-cf536d00-842c-11ea-81c3-238c690cef52.png)
- ![related2](https://user-images.githubusercontent.com/33205781/79913764-d11d3080-842c-11ea-97fa-af2c07ab4d19.png)
- ![theory](https://user-images.githubusercontent.com/33205781/79913768-d2e6f400-842c-11ea-841d-c9abfa317b39.png)
-
-
-
 
  ## Built With
 
@@ -38,7 +32,7 @@
 
  ## Live Demo
 
- [Live Demo Link](https://rawcdn.githack.com/SigmaSam/PositioningandFloatingElementsGabriel-Samuel/d2c2355b2c16533e02f538d9bdb00cd33388ff34/index.html)
+ [Live Demo Link](https://rawcdn.githack.com/SigmaSam/Microverse-Project--4/3dc55c910c6a63f6868c225c5a33e318a0163a41/index.html)
 
 
  ## Getting Started
@@ -55,19 +49,14 @@
  - Git Workflow
 
  ### Setup
- - Clone the repo: ```https://github.com/SigmaSam/PositioningandFloatingElementsGabriel-Samuel.git```
+ - Clone the repo: ```https://github.com/SigmaSam/Microverse-Project--4.git```
 
  ### Install
- - Open index.htnl with the browser of your choice
+ - Open index.html with the browser of your choice
 
- ## Authors
- 👤 **Author1**
+ ## Author
 
- - Github: [@githubhandle](https://github.com/Gabkings)
-
- - Linkedin: [linkedin](https://www.linkedin.com/in/gabriel-gitonga-b5a611183/)
-
- 👤 **Author1**
+ 👤 **Author**
 
  - Github: [@githubhandle](https://github.com/SigmaSam)
 

@@ -27,7 +27,7 @@
 
  ## Built With
 
- - HTML5,
+ - HTML5
  - CSS3
 
  ## Live Demo
